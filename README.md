@@ -17,9 +17,10 @@ A simple and efficient Python-based tool that helps calculate monthly shared exp
 
 # Project Structure
 rent-calculator/
-│
-├── rent_calculator.py     # Main Python script
-└── README.md              # Project documentation
+
+rent_calculator.py 
+
+README.md             
 
 # How It Works
 
