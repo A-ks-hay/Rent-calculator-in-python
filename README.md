@@ -48,14 +48,21 @@ Displays how much each person needs to pay
 
 # Input Example
 Enter your hostel/flat rent = 8000
+
 Enter the amount of food ordered = 2200
+
 Enter the total of electricity spend = 90
+
 Enter the charge per unit = 8
+
 Enter the number of persons living in room/flat = 2
+
 
 # Output Example
 Total electricity bill: 720
+
 Total expense: 10920
+
 Amount per person: 5460
 
 # Technology Used
